@@ -1,0 +1,26 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Dependencies / build output
+node_modules/
+dist/
+*.zip
+
+# Local backups and logs
+*.bak
+*.bak-*
+*.log
+*.tmp
+
+# Voice pack (large, distributed separately)
+voice/
+
+# Boot video (74 MB): shipped inside the release zip, kept out of the repo.
+# The skin falls back to a still frame when it is missing.
+plugins/zzz-fairy-skin/assets/boot.mp4
+
+# Editor
+.vscode/
+.idea/

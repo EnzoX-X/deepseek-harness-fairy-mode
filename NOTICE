@@ -1,0 +1,38 @@
+# NOTICE
+
+This repository is an unofficial, non-commercial fan project. It is not
+affiliated with, endorsed by, or sponsored by miHoYo / HoYoverse or DeepSeek.
+
+## Third-party rights
+
+- **Zenless Zone Zero / 绝区零**, the character **Fairy (菲茵)**, and all related
+  names, logos, character designs, UI artwork, and audio are trademarks and/or
+  copyrighted works of **miHoYo / HoYoverse**. All rights reserved by their
+  respective owners.
+- The visual style of `plugins/zzz-fairy-skin` is a fan re-creation inspired by
+  the in-game HDD interface. Reference frames used during development are not
+  part of the distributed plugin.
+- **DeepSeek Harness (DSH)** and its plugin APIs are products of DeepSeek. This
+  project ships only plugins and does not redistribute the DSH application.
+- **GPT-SoVITS** is an open-source voice conversion / TTS project
+  (<https://github.com/RVC-Boss/GPT-SoVITS>) under its own license. The optional
+  voice pack contains model weights fine-tuned on Fairy's in-game voice; those
+  weights are derivative works of the original voice recordings and are provided
+  for personal, non-commercial study only.
+
+## What you may do
+
+- Use the plugins for personal, non-commercial purposes.
+- Modify the code for yourself, and share patches under the same terms.
+
+## What you may not do
+
+- Sell, rent, or otherwise commercially exploit this project, its assets, or the
+  voice model.
+- Present the project or the Fairy persona as official content, or use it to
+  impersonate miHoYo / HoYoverse / DeepSeek.
+- Redistribute the voice model weights as if they were your own work, or use
+  them to clone voices other than the intended character.
+
+If a rights holder objects to any part of this project, the affected assets will
+be removed on request.
